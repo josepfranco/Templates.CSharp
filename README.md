@@ -1,2 +1,2 @@
-# Templates.CSharp.Abstractions
-Template repository for C# abstraction repositories.
+# Templates.CSharp
+Template repository for C# projects.
